@@ -1,0 +1,13 @@
+D:\Experiments\SenseHMS\bin\Debug\netcoreapp2.1\SenseHMS.deps.json
+D:\Experiments\SenseHMS\bin\Debug\netcoreapp2.1\SenseHMS.runtimeconfig.json
+D:\Experiments\SenseHMS\bin\Debug\netcoreapp2.1\SenseHMS.runtimeconfig.dev.json
+D:\Experiments\SenseHMS\bin\Debug\netcoreapp2.1\SenseHMS.dll
+D:\Experiments\SenseHMS\bin\Debug\netcoreapp2.1\SenseHMS.pdb
+D:\Experiments\SenseHMS\obj\Debug\netcoreapp2.1\SenseHMS.csproj.CoreCompileInputs.cache
+D:\Experiments\SenseHMS\obj\Debug\netcoreapp2.1\SenseHMS.RazorAssemblyInfo.cache
+D:\Experiments\SenseHMS\obj\Debug\netcoreapp2.1\SenseHMS.RazorAssemblyInfo.cs
+D:\Experiments\SenseHMS\obj\Debug\netcoreapp2.1\SenseHMS.AssemblyInfoInputs.cache
+D:\Experiments\SenseHMS\obj\Debug\netcoreapp2.1\SenseHMS.AssemblyInfo.cs
+D:\Experiments\SenseHMS\obj\Debug\netcoreapp2.1\SenseHMS.RazorTargetAssemblyInfo.cache
+D:\Experiments\SenseHMS\obj\Debug\netcoreapp2.1\SenseHMS.dll
+D:\Experiments\SenseHMS\obj\Debug\netcoreapp2.1\SenseHMS.pdb
