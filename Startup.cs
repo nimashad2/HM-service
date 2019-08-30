@@ -40,7 +40,7 @@ namespace SenseHMS
                     ValidateAudience = false,
                     ValidateIssuerSigningKey = true,
                     ValidateLifetime = true,
-                    ClockSkew = TimeSpan.FromMinutes(5)
+                    ClockSkew = TimeSpan.FromMinutes(1)
 
                 };
             });
@@ -59,8 +59,9 @@ namespace SenseHMS
             }
 
             app.UseHttpsRedirection();
-            app.UseMvc();
             app.UseAuthentication();
+            app.UseMvc();
+            
         }
     }
 }

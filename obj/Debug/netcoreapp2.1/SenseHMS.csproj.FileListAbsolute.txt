@@ -11,3 +11,4 @@ D:\Experiments\SenseHMS\obj\Debug\netcoreapp2.1\SenseHMS.AssemblyInfo.cs
 D:\Experiments\SenseHMS\obj\Debug\netcoreapp2.1\SenseHMS.RazorTargetAssemblyInfo.cache
 D:\Experiments\SenseHMS\obj\Debug\netcoreapp2.1\SenseHMS.dll
 D:\Experiments\SenseHMS\obj\Debug\netcoreapp2.1\SenseHMS.pdb
+D:\Experiments\SenseHMS\obj\Debug\netcoreapp2.1\SenseHMS.csprojAssemblyReference.cache
