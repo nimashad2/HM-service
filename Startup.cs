@@ -40,7 +40,7 @@ namespace SenseHMS
                     ValidateAudience = false,
                     ValidateIssuerSigningKey = true,
                     ValidateLifetime = true,
-                    ClockSkew = TimeSpan.FromMinutes(1)
+                    ClockSkew = TimeSpan.Zero
 
                 };
             });
